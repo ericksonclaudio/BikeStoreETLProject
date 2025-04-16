@@ -2,7 +2,7 @@
 
 Pipeline ETL con arquitectura Medallión usando Databricks y visualización con Matplotlib. Proyecto de ingeniería de datos con el dataset "Bike Store Relacional".
 
-- [Aruitectura del proyecto ETL con Databricks](Docs/Arquitectura_Pipeline.png)
+- [Arquitectura del proyecto ETL con Databricks](Docs/Arquitectura_Pipeline.png)
 
 ## Descripción
 Este proyecto implementa un pipeline ETL completo en Databricks Community Edition, siguiendo la arquitectura Medallión (Bronze, Silver, Gold). El objetivo es procesar el dataset "Bike Store Relacional" para generar tablas analíticas, visualizar los datos con gráficos, y extraer conclusiones accionables. Incluye:
